@@ -1,3 +1,4 @@
 **evade84** - fundamental system of anonymous communication.
 
-Docs, manual and more info is coming soon.
+Work is still in progress.
+Docs, manuals and more is coming soon.
