@@ -12,3 +12,10 @@ Work is still in progress. Docs, manuals and more is coming soon.
 - [ ] Forget about this project, 'cause no one cares about it.
 
 ...
+
+<hr/>
+
+You also may donate crypto if you wish to support development:
+
+BTC: `bc1q9xh45gmdr5cd6nt7x55zmmjzrlf6v4wan5u6vz`
+
