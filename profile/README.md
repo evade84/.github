@@ -1,6 +1,6 @@
 **evade84** is a fundamental system of anonymous communication.
 
-Work is still in progress. Docs, manuals and more is coming soon.
+Work is still in progress. Clients, docs, manuals and more is coming soon.
 
 **Roadmap:**
 - [ ] Release +-final version of [evade84-node](https://github.com/evade84/evade84-node).
