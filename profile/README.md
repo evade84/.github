@@ -8,8 +8,6 @@ Work is still in progress. Clients, docs, manuals and more is coming soon.
 - [ ] Release +-final version of [eef](https://github.com/evade84/eef) (maybe even rename it :/).
 - [ ] Write some other clients: web, desktop, mobile, pager, toaster, synth, your kitten, etc.
 - [ ] Be happy for a while.
-- [ ] Rewrite everything in Rust.
-- [ ] Forget about this project, 'cause no one cares about it.
 
 ...
 
