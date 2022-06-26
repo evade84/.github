@@ -13,7 +13,7 @@ Work is still in progress. Clients, docs, manuals and more is coming soon.
 
 <hr/>
 
-You may also donate crypto if you wish to support development:
+You may also donate some crypto if you wish to support development:
 
 BTC: `bc1q9xh45gmdr5cd6nt7x55zmmjzrlf6v4wan5u6vz`
 
