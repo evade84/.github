@@ -5,7 +5,7 @@ Work is still in progress. Clients, docs, manuals and more is coming soon.
 
 **Roadmap:**
 - [ ] Release +-final version of [evade84-node](https://github.com/evade84/evade84-node).
-- [ ] Relase +- final version of [python-evade84](https://github.com/python-evade84).
+- [ ] Relase +- final version of [python-evade84](https://github.com/evade84/python-evade84).
 - [ ] Write some docs and manuals.
 - [ ] Release +-final version of [evd](https://github.com/evade84/evd).
 - [ ] Write some other clients: web, desktop, mobile, pager, toaster, synth, your kitten, etc.
