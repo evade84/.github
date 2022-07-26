@@ -1,3 +1,4 @@
+<img alt="evade84 logo" src="https://raw.githubusercontent.com/evade84/.github/master/assets/logo-wide.png">
 **evade84** is a fundamental system of anonymous communication.
 
 Work is still in progress. Clients, docs, manuals and more is coming soon.
