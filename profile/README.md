@@ -4,8 +4,7 @@
   </a>
 </p>
 <h3 align="center">Fundamental system of anonymous communication.</h3>
-<br />
-Work is still in progress. Clients, documentation, manuals, tutorials and more is coming soon, just stay tuned!
+<p align="center">Work is still in progress. Clients, documentation, manuals, tutorials and more is coming soon, just stay tuned!</p>
 
 <hr/>
 
