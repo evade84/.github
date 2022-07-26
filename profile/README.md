@@ -3,7 +3,7 @@
     <img alt="evade84" src="https://raw.githubusercontent.com/evade84/.github/master/assets/logo-wide.png" height=175 />
   </a>
 </p>
-<h3 align="center">Fundamental system of anonymous communication.</h3>
+<h3 align="center">Fundamental system of anonymous and pseudonymous communication.</h3>
 <br />
 Work is still in progress. Clients, documentation, manuals, tutorials and more is coming soon, just stay tuned!
 
